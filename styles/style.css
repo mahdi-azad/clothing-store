@@ -1,0 +1,73 @@
+.custom-btn {
+    background-color: brown;
+    border: 1px solid black;
+}
+
+.custom-btn:hover {
+    background-color: black;
+}
+
+.navbar-custom {
+    background-color: #4E5561 !important;
+}
+
+
+.nav-link {
+    color: white !important;
+}
+.nav-link:hover {
+    color: black !important;
+}
+
+.brand-section img {
+    max-width: 250px;
+    margin: 10px;
+}
+.brand-section {
+    padding: 0px 160px;
+}
+
+body {
+    background-color: #D5CEC9;
+}
+
+.recommend-section {
+    width: 1050px;
+}
+
+.recommend-item {
+    background-color: #E1DFDD;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.zoom-item img{
+    width: 500px;
+}
+
+.image-container:hover .zoom-image {
+    transform: scale(1.1); 
+}
+.zoom-image {
+    transition: transform 0.3s;
+}
+.image-container {
+    overflow: hidden;
+    position: relative;
+}
+
+.contact-section {
+    width: 500px;
+}
+
+
+    
+
+
+
+
+
+
+
+
